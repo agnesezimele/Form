@@ -1,0 +1,65 @@
+.background {
+    display: flex;
+    position: relative;
+    width: 1024px;
+    height: 512px;
+    background-color: rgb(201, 226, 241);
+}
+
+.container {
+    display: flex;
+    position: relative;
+    width: 281px;
+    height: 385px;
+    left: 184px;
+    top: 76px;
+}
+
+.left {
+    background-color: white;
+    display: flex;
+    width: 281px;
+    height: 385px;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 16px;
+}
+
+.form {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-start;
+    padding: 15px;
+    margin: auto;
+    align-items: center;
+}
+
+.text {
+    width: 10px;
+}
+
+.Title-1 {
+    color: rgb(151, 148, 148);
+    font-size: small;
+    font-family: sans-serif;
+}
+
+.Title-2 {
+    color: rgb(151, 148, 148);
+    font-size: small;
+    font-family: sans-serif;
+}
+
+.Title-3 {
+    color: rgb(151, 148, 148);
+    font-size: small;
+    font-family: sans-serif;
+}
+
+.Title-4 {
+    color: red;
+    font-size: small;
+    font-family: sans-serif;
+}
+
+
+
